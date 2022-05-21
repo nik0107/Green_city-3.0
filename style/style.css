@@ -15,7 +15,7 @@ body {
     justify-content: center;
 }
 .content-wrapper div {
-    width: 50%;
+    
     text-align: center;
 }
 .content-wrapper h3 {
@@ -39,6 +39,7 @@ body {
 .content-wrap {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .start, .table-menu {
     margin: 0;
